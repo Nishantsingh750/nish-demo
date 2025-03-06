@@ -1,2 +1,2 @@
-# nish-demo
-Author= Nishant Singh 
+#nish-demo
+Author= Nishant Singh Rajput
